@@ -24,4 +24,4 @@ It is a single static page with no build step: `index.html` holds the markup, st
 
 ## Logo credits
 
-Institution logos belong to their owners and are used only to identify affiliations: Indiana State University (Wikimedia Commons, public domain), Jadavpur University and Dr. B. R. Ambedkar University Delhi (Wikipedia, non-free logos), the Field Museum (historic logo, Wikimedia Commons, public domain) and SPAARC (from spaarc.org).
+Institution logos belong to their owners and are used only to identify affiliations: the Indiana State University seal ([`File:Indiana State University Seal.svg`](https://en.wikipedia.org/wiki/File:Indiana_State_University_Seal.svg), English Wikipedia, non-free logo; the file here drops the seal's white backing disc and uses a dark teal ink), Jadavpur University and Dr. B. R. Ambedkar University Delhi (Wikipedia, non-free logos), the Field Museum (historic logo, Wikimedia Commons, public domain) and SPAARC (from spaarc.org).
